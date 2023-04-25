@@ -1,0 +1,11 @@
+.ImageSlider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin-left: auto;
+  margin-right: auto;
+  filter: url(#marker-shape);
+  background: #fff6ea;
+}

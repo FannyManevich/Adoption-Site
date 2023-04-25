@@ -1,0 +1,43 @@
+.Cat-Container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin-left: auto;
+  margin-right: auto;
+  filter: url(#marker-shape);
+  background: #fff6ea;
+  border-radius: 15%;
+  margin-top: 40px;
+}
+.image {
+  max-width: 40%;
+  position: center;
+}
+.text {
+  font-size: 25px;
+  font-family: SignPainter;
+  border-radius: 8px;
+}
+.Button-Adopt {
+  font-size: 25px;
+  font-family: SignPainter;
+  color: #ac7088;
+  background: #f9f5eb;
+  width: 40%;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  position: center;
+  border-radius: 8px;
+  border: #f9f5eb;
+}
+.Button-Adopt:hover {
+  background-color: #ebd8c3;
+  color: black;
+  font-family: SignPainter;
+}
+.paw {
+  width: 10%;
+}

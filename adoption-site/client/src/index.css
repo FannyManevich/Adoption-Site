@@ -1,0 +1,8 @@
+body {
+  background-color: #ffeeee;
+}
+@font-face {
+  font-family: "SignPainter";
+  src: local("SignPainter"),
+    url(./SignPainterHouseScript.ttf) format("truetype");
+}

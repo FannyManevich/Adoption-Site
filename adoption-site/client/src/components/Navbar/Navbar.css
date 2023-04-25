@@ -1,0 +1,62 @@
+/* Navigation Bar */
+.bg-img {
+  /* The image used */
+  background-image: url("pug.jpg");
+  background-position: 20%;
+  height: 20px;
+  min-height: 400px;
+  width: 100%;
+
+  /* Center and scale the pug */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  /* Needed to position the navbar */
+}
+/* Position the navbar container inside the image */
+.container {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+}
+/* The navbar */
+.topnav {
+  overflow: hidden;
+  background-color: transparent;
+  text-align: inherit;
+  bottom: 0;
+  width: 230%;
+  font-family: SignPainter;
+}
+
+.logo {
+  width: 160px;
+  height: 150px;
+  border-radius: 50%;
+  filter: contrast(0%);
+  filter: #000000;
+  color: #000000;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  font-family: SignPainter;
+  position: center;
+}
+/* Highlighting */
+.topnav a:hover {
+  background-color: #ebd8c3;
+  color: black;
+}

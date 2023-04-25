@@ -1,0 +1,65 @@
+[
+  {
+    "index": "1",
+    "name": "Oscar",
+    "age": 7,
+    "breed": "australian shepherd",
+    "img": "https://www.thekennelclub.org.uk/media/1415/australian-shepherd-headshot.jpg?mode=pad&width=1000&rnd=132140471190000000"
+  },
+  {
+    "index": "2",
+    "name": "Joe",
+    "age": 7,
+    "breed": "australian shepherd",
+    "img": "https://centralparkpuppies.com/wp-content/uploads/2021/09/australian-shepherd-dog.jpg"
+  },
+  {
+    "index": "3",
+    "name": "Oscar and Joe",
+    "age": 7,
+    "breed": "australian shepherd",
+    "img": "https://www.hobbyfarms.com/timthumb.php?src=https://img.hobbyfarms.com/shutterstock_674493130-600x347.jpg&h=347&w=600&zc=0"
+  },
+  {
+    "index": "4",
+    "name": "Lulu",
+    "age": 1,
+    "breed": "french bulldog",
+    "img": "https://www.designerfrenchbulldogs.com/wp-content/uploads/2022/01/french-bulldog-puppy-1500x630.jpg"
+  },
+  {
+    "index": "5",
+    "name": "Peanut",
+    "age": 4,
+    "breed": "pinscher",
+    "img": "https://media.istockphoto.com/photos/black-miniature-pinscher-zwergpinscher-min-pin-sitting-on-green-grass-picture-id962358970?k=20&m=962358970&s=612x612&w=0&h=kkjsc4M2N6a1oDKlQFY1sT7DhuHuCougPBd-FiueaFk="
+  },
+  {
+    "index": "6",
+    "name": "Charlie",
+    "age": 5,
+    "breed": "Sharpie",
+    "img": "https://i.pinimg.com/originals/1d/6c/33/1d6c333eea844226653fadf1e4ec7c32.jpg"
+  },
+  {
+    "index": "7",
+    "name": "Sally",
+    "age": 1,
+    "breed": "mixed",
+    "img": "https://preview.redd.it/qi2srlk8gz941.jpg?auto=webp&s=da4e30a4c2a896e0ce0a5f211deec6e9bd311523"
+  },
+  {
+    "index": "8",
+    "name": "Oreo",
+    "age": 7,
+    "breed": "mixed",
+    "img": "https://thesmartcanine.com/wp-content/uploads/2019/03/bullmatian-mixed-breed.jpg"
+  },
+  {
+    "index": "9",
+    "name": "Cujo",
+    "age": 0.5,
+    "breed": "mixed",
+    "img": "https://www.thegoodypet.com/wp-content/uploads/2022/02/Bullmatian--1024x1024.jpg"
+  }
+]

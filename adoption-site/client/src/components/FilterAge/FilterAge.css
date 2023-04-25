@@ -1,0 +1,25 @@
+.Button {
+  font-size: 25px;
+  font-family: SignPainter;
+  color: #ac7088;
+  background: #f9f5eb;
+  width: 50%;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  position: center;
+  border-radius: 8px;
+  border: #f9f5eb;
+}
+.Button:hover {
+  background-color: #ebd8c3;
+  color: black;
+  font-family: SignPainter;
+}
+
+.Buttons {
+  height: 50%;
+}
+.Cats {
+  margin-top: 100px;
+}

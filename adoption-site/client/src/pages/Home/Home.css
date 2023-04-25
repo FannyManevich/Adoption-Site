@@ -1,0 +1,31 @@
+.Title {
+  position: center;
+  color: black;
+  font-family: SignPainter;
+  font-size: 60px;
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(0, 0, 0);
+  content: " ";
+  width: 70%;
+  margin-left: 80px;
+  margin-right: 80px;
+  background: #fff6ea;
+  padding: 10px 3px 3px 10px;
+  filter: url(#marker-shape);
+}
+.aboutPOM {
+  font-family: SignPainter;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  content: " ";
+  display: block;
+
+  background: #fff6ea;
+  padding: 5px 15px 3px 15px;
+  filter: url(#marker-shape);
+}
+.AboutUs {
+  font-size: 35px;
+  text-align: center;
+}
